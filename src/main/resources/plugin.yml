@@ -1,0 +1,5 @@
+name: EmpireTell
+version: '${project.version}'
+main: empiretell.Loader
+api-version: 1.19
+

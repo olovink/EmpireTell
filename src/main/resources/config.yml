@@ -1,0 +1,9 @@
+player-not-found: "Игрок &b%target%&r не в сети."
+command-usage: "Использование: &b/tell &e<игрок> <сообщение>"
+command-name: "tell"
+
+command-no-args1: "Введите &cимя&r игрока."
+command-no-args2: "Введите &cсообщение&r, которое хотите отправить."
+
+target-send: "Игрок &e%player%&r отправил вам сообщение: &b%message%"
+player-send: "Вы отправили игроку &e%target%&r сообщение: &b%message%"
