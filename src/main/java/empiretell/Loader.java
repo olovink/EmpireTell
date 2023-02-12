@@ -27,6 +27,6 @@ public final class Loader extends JavaPlugin {
 
     public void loadConfig() {
         this.saveDefaultConfig();
-        this.saveResource("config.yml", true);
+        this.saveResource("config.yml", false);
     }
 }
